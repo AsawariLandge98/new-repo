@@ -1,1 +1,1 @@
-# new-repo
+console.log("hello world);
